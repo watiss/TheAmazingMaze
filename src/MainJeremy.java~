@@ -1,0 +1,12 @@
+import view.GameWindow;
+import view.InitWindow;
+
+
+public class MainJeremy {
+
+	public static void main(String[] args) {
+		new InitWindow();
+		//new GameWindow();
+	}
+
+}
